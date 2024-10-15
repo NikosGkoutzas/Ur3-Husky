@@ -70,7 +70,7 @@ At the start of the system, two operating modes are offered:
 
 <b>Conclusions</b>
 
-This thesis presents a comprehensive solution for collaboration between two robots to recognize and place objects based on their color. The successful implementation demonstrates the capability for coordinated action between two autonomous systems, providing a platform that can be applied in industrial applications such as object sorting and robotic assembly.
+This thesis presents a comprehensive solution for collaboration between two robots to recognize and place objects based on their color. The successful implementation demonstrates the capability for coordinated action between two autonomous systems, providing a platform that can be applied in industrial applications such as object sorting and robotic assembly. In the drive link I have some videos and a presentation.
 
 <b>Installation Instructions</b>
 
