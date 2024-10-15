@@ -1,5 +1,5 @@
 # Ur3-Husky
-<h1><b><I>My Master's Thesis:</I> Analysis and Simulation<br>of a 6 DOP Robotic Arm on a Wheeled Vehicle<br>with Application in Object Sorting</b></h1>
+<h1><b><I>My Master's Thesis:</I> Analysis and Simulation<br>of a 6-DOF Robotic Arm on a Wheeled Vehicle<br>with Application in Object Sorting</b></h1>
 <b>Introduction</b>
 
 This thesis focuses on the collaboration between two robots, the Husky UGV and the UR3 robotic arm, to autonomously recognize, collect, and place objects based on their color. The mission involves navigating through the environment, identifying objects on various tables, grasping them with the UR3, and placing them into designated holes on different tables.
