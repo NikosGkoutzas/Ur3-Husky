@@ -7,7 +7,7 @@ Objective
 
 The goal of this work is to develop an autonomous system that allows the two robots to work harmoniously together to recognize, collect, and place objects in predetermined locations based on color recognition. The Husky is responsible for navigation and locating the tables, while the UR3 executes the precise grasping and placement of the objects.
 System Description
-<b>1. Husky Robot</b>
+<b><br>1. Husky Robot</b>
 
 The Husky UGV is a four-wheeled robotic vehicle equipped with a camera that enables it to navigate autonomously through the environment. The camera helps avoid collisions with objects and ensures accurate approaches to the tables.
 Husky Functionalities:
@@ -19,7 +19,7 @@ Husky Functionalities:
 <b>2. UR3 Robot</b>
 
 The UR3 is a six-axis robotic arm equipped with two cameras and a gripper. The first camera is used for recognizing and grasping objects from the tables, while the second camera is mounted vertically on the arm and looks down at the ground for accurate placement of the objects into the holes.
-<b>UR3 Functionalities:</b>
+UR3 Functionalities:
 
     Camera 1: Used for horizontal grasping of objects based on their color.
     Camera 2: Looks vertically at the ground and enables precise placement of objects into corresponding holes.
@@ -71,10 +71,8 @@ At the start of the system, two operating modes are offered:
 <b>Conclusions</b>
 
 This thesis presents a comprehensive solution for collaboration between two robots to recognize and place objects based on their color. The successful implementation demonstrates the capability for coordinated action between two autonomous systems, providing a platform that can be applied in industrial applications such as object sorting and robotic assembly.
-Installation Instructions
+
+<b>Installation Instructions</b>
 
     Clone the repository:
-
-    bash
-
-git clone https://github.com/username/robotics-thesis
+        git clone https://github.com/QualiaT/husky_ur3_simulator in order to install all the necessary packages for ur3, husky robots, sensors and cameras.
