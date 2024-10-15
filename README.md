@@ -75,4 +75,4 @@ This thesis presents a comprehensive solution for collaboration between two robo
 <b>Installation Instructions</b>
 
     Clone the repository:
-        git clone https://github.com/QualiaT/husky_ur3_simulator in order to install all the necessary packages for ur3, husky robots, sensors and cameras.
+    git clone https://github.com/QualiaT/husky_ur3_simulator in order to install all the necessary packages for ur3, husky robots, sensors and cameras.
